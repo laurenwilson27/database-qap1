@@ -1,0 +1,1 @@
+SELECT payment_id, customer_id, rental_id, amount FROM payment;

@@ -1,0 +1,1 @@
+SELECT * FROM payment INNER JOIN customer USING(customer_id);
